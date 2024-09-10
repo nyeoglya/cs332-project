@@ -1,14 +1,20 @@
+# temporary files, log files
+*.cache
 *.class
 *.log
 
-.bloop/
-.bsp/
-.metals/
-.scala-build/
-.vscode/
+# intermediate, compile files
+target/
 lib_managed/
 
-metals.sbt
+.scala-build/
+.bsp/
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# visual code
+.bloop/
+.metals/
+metals.sbt
+.vscode/
+
+# virtual machine crash logs
 hs_err_pid*

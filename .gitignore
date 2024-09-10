@@ -3,6 +3,7 @@
 
 .bsp/
 .vscode/
+.scala-build/
 .metals/
 target/
 lib_managed/

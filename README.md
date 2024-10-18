@@ -1,6 +1,6 @@
 # 332project
 Team Green
-Teammate: nyeoglya, zlfn, carprefer
+Teammate: nyeoglya, **zlfn**, carprefer
 
 목표: 컴퓨터 여러 개 각각에 storage -> multi thread로 정렬해서 -> 다시 storage에 넣음
 

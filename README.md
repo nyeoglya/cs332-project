@@ -1,6 +1,6 @@
 # 332project
 Team Green
-Teammate: nyeoglya, zlfn, carprefer
+Teammate: nyeoglya, **zlfn**, carprefer
 
 ## Week 1
 ### progress:

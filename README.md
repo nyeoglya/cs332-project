@@ -12,7 +12,7 @@
 **JDK 22, Scala 2.13**
 
 ## Plan
-**Week 1: Planning** [Report](https://htmlpreview.github.io/?https://github.com/nyeoglya/332project/report/week1_report.html)
+**Week 1: Planning** [Report](https://htmlpreview.github.io/?https://github.com/nyeoglya/332project/blob/main/report/week1_report.html)
 
 **Week 2 (Midterm week): Design ideas**
 

@@ -1,71 +1,35 @@
 # 332project
-Team Green
-Teammate: nyeoglya, **zlfn**, carprefer
+<span style="color: green;">**TEAM GREEN**</span>
 
-목표: 컴퓨터 여러 개 각각에 storage -> multi thread로 정렬해서 -> 다시 storage에 넣음
+**Teammate: [nyeoglya](https://github.com/nyeoglya), [zlfn](https://github.com/zlfn), [carprefer](https://github.com/carprefer)**
 
-역할 분담은 week 3주차에 디자인 하고 진행한다.
+> For more information, please visit [**HERE**](http://pl.postech.ac.kr/~gla/cs332/index.html)
 
-network communication: gRPC
-scala version: scala 2.13
-java version: java jdk 22
+## Develpment Environment
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+![Sbt](https://img.shields.io/badge/sbt-%235e150f.svg?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 
-주석: scalaDoc documentation 주석  
-github 자동 테스트 이용
+**JDK 22, Scala 2.13**
 
-테스트 주도 개발
+## Plan
+**Week 1: Planning** [Report](https://htmlpreview.github.io/?https://github.com/nyeoglya/332project/report/week1_report.html)
 
-PR을 commit 여러 개를 한번에 검사하는 역할로 쓴다.
-TODO를 issue로 올린다.
+**Week 2 (Midterm week): Design ideas**
 
-master, worker를 분리해서 코딩해야 된다.
+**Week 3: Overall project design**
 
-commit 메시지 형식: conventional commit, 영어로
-코딩 스타일: https://docs.scala-lang.org/style/naming-conventions.html
+**Week 4: Create test code**
 
-unit test
-- basic functional test
-- boundary test
-- 
-- performance test
+**Week 5: Creating physical code and testing the system**
 
-알고리즘
-1. 내장 라이브러리 sort를 쓴다. in-place partitioning한다.
-2. suffling idea를 짠다. 시험 끝나고 github 공부해오기. gRPC 공부.
+**Week 6 (Progress Slides Deadline): Organizing Content, Preparing for Interim Presentation**
 
-## Week 1
-### progress: 계획 수립 및 역할 분담 및 깃허브 프로젝트 설정
-### goal of the next week:
+**Week 7: Project Improvement and Maintenance**
 
-## Week 2 (Midterm week)
-### progress: 아이디어 수립
-### goal of the next week:
+**Week 8 (Project Deadline): Preparing for Final Presentation**
 
-## Week 3
-### progress: 프로젝트 전체적인 디자인
-### goal of the next week:
-
-## Week 4
-### progress: unit test 코드 작성
-### goal of the next week:
-
-## Week 5
-### progress: 시스템 테스트 & 실제 코드 분업
-### goal of the next week:
-
-## Week 6 Progress slides Deadline (11/18 Mon, 11:59pm)
-### progress: 발표 자료 제작 및 준비
-### goal of the next week:
-
-## Week 7
-### progress: 개선된 방향
-### goal of the next week:
-
-## Week 8 Project Deadline (12/08 Sun, 11:59pm)
-### progress: 발표 자료 제작 및 준비
-### goal of the next week:
-
-# Grading Criteria
+## Grading Criteria
+```md
 10% for forming your team by class today
 30% for progress
 40% for the final result
@@ -76,3 +40,4 @@ unit test
 
 We will test your code in a small cluster.
 no more testing updated after the deadline.
+```
